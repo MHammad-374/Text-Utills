@@ -5,4 +5,4 @@ In this project, I've created a text modification web. User write the text in th
 It is just a practiced project of my skills.
 
 # Link:  
-       https://app.netlify.com/projects/text-editor-abc/overview
+       https://text-editor-abc.netlify.app/
